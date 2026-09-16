@@ -1,0 +1,79 @@
+import UIKit
+
+//easy tasks🟢
+
+//1️⃣
+//var fruits = ["apple", "banana", "pear", "cherry", "kiwi"]
+
+//print(fruits[2])
+
+
+//2️⃣
+//var favNumbers = [5, 7, 8]
+//favNumbers.append(9)
+
+//print(favNumbers)
+
+
+//3️⃣
+//var programmingLanguages = ["C++": 1983, "Python": 1991, "Swift": 2014]
+
+//print(programmingLanguages["Swift"] ?? 0)
+
+
+//4️⃣
+//var colors = ["pink", "purple", "blue", "green"]
+//colors[1] = "red"
+
+//print(colors)
+
+
+//middle tasks🟡
+
+//1️⃣
+//let group1: Set = [1, 2, 3, 4]
+//let group2: Set = [3, 4, 5, 6]
+//
+//print(group1.intersection(group2))
+
+
+//2️⃣
+//var scores = ["Adam": 90, "Olive": 80, "Flora": 70]
+//scores["Olive"] = 90
+//
+//print(scores)
+
+
+//3️⃣
+//let 💛 = ["apple", "banana"]
+//let 🩷 = ["cherry", "date"]
+//let 🧡 = 💛 + 🩷
+//
+//print(🧡)
+
+
+//hard tasks🔴
+
+//1️⃣
+//var countriesWithSmallPopulation = ["Vatican City": 800, "Tuvalu": 9500, "Nauru": 12000]
+//countriesWithSmallPopulation["Palau"] = 18000
+//
+//print(countriesWithSmallPopulation)
+
+
+//2️⃣
+//let group1: Set = ["cat", "dog"]
+//let group2: Set = ["dog", "mouse"]
+//
+//var task = group1.union(group2)
+//let finalSet = task.subtracting(group2)
+//
+//print(finalSet)
+
+//3️⃣
+//var studentsScores = [
+//"Ann": [93, 85, 74],
+//"Malcolm": [75, 89, 92],
+//"Rodriguez": [100, 84, 94]]
+//
+//print(studentsScores["Ann"]?[1] ?? 0)
